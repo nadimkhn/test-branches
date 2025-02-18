@@ -1,2 +1,3 @@
 # test-branches
-Repo to practice and learn all about branches
+
+A repo to practice and learn all about branches.  
